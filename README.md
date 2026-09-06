@@ -1,4 +1,5 @@
 ## Create a python venv like this and you're ready to go.
+### Prerequisite: A GPU with at least 4 GB of VRAM
 ### Step1 Install Python3.10.11
 ### Step2 Change the directory to a folder you like, and create a venv 
 ```
